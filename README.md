@@ -20,7 +20,7 @@ Technologies Used
 To run this website locally:
 
 Clone the repository:
-* git clone https://github.com/yourusername/portfolio-website.git
+* git clone https://github.com/isultan1111/portfolio-website.git
 
 Navigate to the project directory:
 * cd portfolio-website
